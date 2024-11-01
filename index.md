@@ -20,7 +20,7 @@ _Publication from this work:_ [Manuscript in Prepartion]
 _Title:_ <span style="color:blue">**BabyBelt: A Wearable Low‑Cost Maternal Belt for Uterine Contraction and Fetal Heart Rate
 Monitoring**</span>
 <br><br>
-_Award for this work:_ Crystal Sea Award, Rice360 13th Annual Undergraduate Global Health Technologies Design Competition, Houston, Texas, USA
+_Award for this work:_ Crystal Sea Award, Rice360 13th Annual Undergraduate Global Health Technologies Design Competition, Rice University, Houston, Texas, USA
 <br>
 _Publication from this work:_ [Manuscript in Prepartion]
 
