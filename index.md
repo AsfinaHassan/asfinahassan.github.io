@@ -4,7 +4,7 @@
 
 ### Undergraduate Thesis
 
-_Title:_ **ColpoSense: Deep Learning Based Cervical Cancer Detection from Colposcopy Images**
+_Title:_ <span style="color:teal">**ColpoSense: Deep Learning Based Cervical Cancer Detection from Colposcopy Images**</span>
 <br><br>
 _Supervisor:_ Dr. Taufiq Hasan, Associate Professor – Department of Biomedical Engineering, BUET (Dhaka, Bangladesh)
 <br><br>
