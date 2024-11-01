@@ -32,7 +32,7 @@ _Publication from this work:_ [Manuscript in Preparation]
 
 ### Academic Projects
 
-- **Segmentation of Lung X-Ray Images through K-Means Clustering and Particle Swarm Optimization:**<br>
+- **Segmentation of Lung X-Ray Images through K-Means Clustering and Particle Swarm Optimization**<br>
 Implemented K-Means clustering and Particle Swarm Optimization algorithms to segment lung cancer nodules from lung X-ray images. The segmented results were compared against existing literature to validate the accuracy of the constructed algorithms.<br>
 [Details](/PDF/Imaging.pdf)
 
