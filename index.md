@@ -11,6 +11,8 @@ _Supervisor:_ Dr. Taufiq Hasan, Associate Professor – Department of Biomedica
 _Publication:_ [Manuscript in Prepartion]
 
 ![Image](Images/Thesis_1.png?raw=true")
+![Image](Images/Thesis_2.png?raw=true")
+![Image](Images/Thesis_3.png?raw=true")
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
