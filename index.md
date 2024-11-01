@@ -27,7 +27,7 @@ _Publication from this work:_ [Manuscript in Preparation]
 ![Image](Images/Project_1.png?raw=true")
 ![Image](Images/Project_2.png?raw=true")
 ![Image](Images/Project_3.png?raw=true")
-
+[Fetal Heart Rate Voluntary Trial Findings](https://drive.google.com/file/d/1AklwL86m-Ru6TdAxpVmBlH0XYavYHlPU/view?usp=drive_link)
 ---
 
 ### Academic Projects
@@ -42,7 +42,7 @@ Developed a simple reflex muscle control system and a non-linear muscle control 
 
 - **Development of a Bio-Signal Filter Circuit for Electromyography (EMG) Signal Measurement**<br>
 Designed and implemented a filter circuit for the measurement of electromyography (EMG) signals, tailored to meet the necessary amplitude gain, frequency bandwidth, and powerline noise removal requirements.<br>
-[Details](/PDF/Control.pdf)
+[Details](/PDF/EMG_circuit.pdf)
 
 - **Modelling and Simulating Radiofrequency Cardiac Ablation using COMSOL Multiphysics**<br>
 Simulated radiofrequency ablation (RFA) in myocardial tissue using a cylindrical electrode model in COMSOL Multiphysics. The simulation exhibited how Joule heating could raise tissue temperatures above 50°C, for effective tumor ablation through controlled thermal damage.<br>
