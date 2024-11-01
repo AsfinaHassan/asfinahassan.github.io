@@ -1,4 +1,10 @@
-## Asfina Hassan Juicy
+**Research Interests:**
+- Biomedical Image Processing
+- Deep Learning in Healthcare
+- AI in Healthcare
+- Biomedical Sensors
+- Biomedical Signal Processing
+- Biomedical Instrumentation and Wearables
 
 ---
 ## Academic Research and Projects
@@ -6,7 +12,7 @@
 ---
 ### Undergraduate Thesis
 
-_Title:_ <span style="color:green">**ColpoSense - Deep Learning Based Cervical Cancer Detection from Colposcopy Images**</span>
+_Title:_ <span style="color: #90EE90;">**ColpoSense - Deep Learning Based Cervical Cancer Detection from Colposcopy Images**</span>
 <br><br>
 _Supervisor:_ Dr. Taufiq Hasan, Associate Professor – Department of Biomedical Engineering, BUET (Dhaka, Bangladesh)
 <br> 
@@ -20,7 +26,7 @@ _Publication from this work:_ [Manuscript in Preparation]
 ---
 ### Capstone Project
 
-_Title:_ <span style="color:green">**BabyBelt: A Wearable Low‑Cost Maternal Belt for Uterine Contraction and Fetal Heart Rate
+_Title:_ <span style="color:#90EE90;">**BabyBelt: A Wearable Low‑Cost Maternal Belt for Uterine Contraction and Fetal Heart Rate
 Monitoring**</span>
 <br><br>
 _Award for this work:_ Crystal Sea Award, Rice360 13th Annual Undergraduate Global Health Technologies Design Competition, Rice University, Houston, Texas, USA
