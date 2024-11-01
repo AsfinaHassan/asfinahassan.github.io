@@ -4,11 +4,11 @@
 
 ### Undergraduate Thesis
 
-_Title:_ <span style="color:blue">**ColpoSense: Deep Learning Based Cervical Cancer Detection from Colposcopy Images**</span>
+_Title:_ <span style="color:blue">**ColpoSense - Deep Learning Based Cervical Cancer Detection from Colposcopy Images**</span>
 <br>
 _Supervisor:_ Dr. Taufiq Hasan, Associate Professor – Department of Biomedical Engineering, BUET (Dhaka, Bangladesh)
 <br>
-_Publication:_ [Manuscript in Prepartion]
+_Publication from this work:_ [Manuscript in Prepartion]
 
 ![Image](Images/Thesis_1.png?raw=true")
 ![Image](Images/Thesis_2.png?raw=true")
@@ -20,29 +20,26 @@ _Publication:_ [Manuscript in Prepartion]
 _Title:_ <span style="color:blue">**BabyBelt: A Wearable Low‑Cost Maternal Belt for Uterine Contraction and Fetal Heart Rate
 Monitoring**</span>
 <br>
-_Publication:_ [Manuscript in Prepartion]
+_Publication from this work:_ [Manuscript in Prepartion]
 
 ![Image](Images/Project_1.png?raw=true")
 ![Image](Images/Project_2.png?raw=true")
 ![Image](Images/Project_3.png?raw=true")
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Academic Projects
 
-### Category Name 2
+- **Segmentation of Lung X-Ray Images through K-Means Clustering and Particle Swarm Optimization**
+<br>
+[Project 2 Title](/pdf/sample_presentation.pdf)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- **Simulation of Positive Feedback in the Control of Muscle Movement**
+<br>
+[Project 2 Title](/pdf/sample_presentation.pdf)
 
----
-
-
-
+- **Modelling and Simulating Radiofrequency Cardiac Ablation using COMSOL Multiphysics**
+<br>
+[Project 2 Title](/pdf/sample_presentation.pdf)
 
 ---
