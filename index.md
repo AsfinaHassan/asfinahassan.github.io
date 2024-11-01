@@ -13,6 +13,7 @@ _Publication from this work:_ [Manuscript in Preparation]
 ![Image](Images/Thesis_1.png?raw=true")
 ![Image](Images/Thesis_2.png?raw=true")
 ![Image](Images/Thesis_3.png?raw=true")
+![Image](Images/Thesis_4.png?raw=true")
 
 ---
 ### Capstone Project
