@@ -6,7 +6,7 @@
 
 **ColpoSense: Deep Learning Based Cervical Cancer Detection from Colposcopy Images**
 
-![Image](src)
+![Image](Images/Thesis_1.png?raw=true")
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
