@@ -32,14 +32,14 @@ _Publication from this work:_ [Manuscript in Prepartion]
 
 - **Segmentation of Lung X-Ray Images through K-Means Clustering and Particle Swarm Optimization**
 <br>
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Overview](/PDF/COMSOL.pdf)
 
 - **Simulation of Positive Feedback in the Control of Muscle Movement**
 <br>
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Overview](/PDF/COMSOL.pdf)
 
 - **Modelling and Simulating Radiofrequency Cardiac Ablation using COMSOL Multiphysics**
 <br>
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Overview](/PDF/COMSOL.pdf)
 
 ---
