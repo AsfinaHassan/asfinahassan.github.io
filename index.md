@@ -5,7 +5,7 @@
 ### Undergraduate Thesis
 
 _Title:_ <span style="color:blue">**ColpoSense - Deep Learning Based Cervical Cancer Detection from Colposcopy Images**</span>
-<br>
+<br><br>
 _Supervisor:_ Dr. Taufiq Hasan, Associate Professor – Department of Biomedical Engineering, BUET (Dhaka, Bangladesh)
 <br> 
 _Publication from this work:_ [Manuscript in Prepartion]
@@ -19,7 +19,7 @@ _Publication from this work:_ [Manuscript in Prepartion]
 
 _Title:_ <span style="color:blue">**BabyBelt: A Wearable Low‑Cost Maternal Belt for Uterine Contraction and Fetal Heart Rate
 Monitoring**</span>
-<br>
+<br><br>
 _Award for this work:_ Crystal Sea Award, Rice360 13th Annual Undergraduate Global Health Technologies Design Competition, Houston, Texas, USA
 <br>
 _Publication from this work:_ [Manuscript in Prepartion]
