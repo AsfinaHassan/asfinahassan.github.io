@@ -1,7 +1,9 @@
+## Asfina Hassan Juicy
+
+---
 ## Academic Research and Projects
 
 ---
-
 ### Undergraduate Thesis
 
 _Title:_ <span style="color:blue">**ColpoSense - Deep Learning Based Cervical Cancer Detection from Colposcopy Images**</span>
