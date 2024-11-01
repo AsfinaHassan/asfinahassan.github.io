@@ -42,7 +42,7 @@ Developed a simple reflex muscle control system and a non-linear muscle control 
 
 - **Development of a Bio-Signal Filter Circuit for Electromyography (EMG) Signal Measurement**<br>
 Designed and implemented a filter circuit for the measurement of electromyography (EMG) signals, tailored to meet the necessary amplitude gain, frequency bandwidth, and powerline noise removal requirements.<br>
-[Details](/PDF/EMG_circuit.pdf)
+[Details](/PDF/EMG.pdf)
 
 - **Modelling and Simulating Radiofrequency Cardiac Ablation using COMSOL Multiphysics**<br>
 Simulated radiofrequency ablation (RFA) in myocardial tissue using a cylindrical electrode model in COMSOL Multiphysics. The simulation exhibited how Joule heating could raise tissue temperatures above 50°C, for effective tumor ablation through controlled thermal damage.<br>
