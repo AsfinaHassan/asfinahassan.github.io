@@ -2,6 +2,7 @@ title: Asfina Hassan Juicy
 description: Biomedical Engineering Graduate
 show_downloads: false
 google_analytics:
+theme: jekyll-theme-midnight
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
