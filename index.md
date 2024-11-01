@@ -8,6 +8,7 @@ _Title:_ <span style="color:blue">**ColpoSense - Deep Learning Based Cervical Ca
 <br>
 _Supervisor:_ Dr. Taufiq Hasan, Associate Professor – Department of Biomedical Engineering, BUET (Dhaka, Bangladesh)
 <br>
+_Award for this work:_ Crystal Sea Award, Rice360 13th Annual Undergraduate Global Health Technologies Design Competition, Houston, Texas, USA 
 _Publication from this work:_ [Manuscript in Prepartion]
 
 ![Image](Images/Thesis_1.png?raw=true")
@@ -30,15 +31,16 @@ _Publication from this work:_ [Manuscript in Prepartion]
 
 ### Academic Projects
 
-- **Segmentation of Lung X-Ray Images through K-Means Clustering and Particle Swarm Optimization**
+- **Segmentation of Lung X-Ray Images through K-Means Clustering and Particle Swarm Optimization:**<br>
 Implemented K-Means clustering and Particle Swarm Optimization algorithms to segment lung cancer nodules from lung X-ray images. The segmented results were compared against existing literature to validate the accuracy of the constructed algorithms.<br>
 [Details](/PDF/COMSOL.pdf)
 
-- **Simulation of Positive Feedback in the Control of Muscle Movement**
+- **Simulation of Positive Feedback in the Control of Muscle Movement**<br>
+Developed a simple reflex muscle control system and a non-linear muscle control system using Simulink, based on existing literature. The project involved simulating various input forces to analyze the corresponding changes in muscle length.<br>
 [Details](/PDF/COMSOL.pdf)
 
-- **Modelling and Simulating Radiofrequency Cardiac Ablation using COMSOL Multiphysics**
-
+- **Modelling and Simulating Radiofrequency Cardiac Ablation using COMSOL Multiphysics**<br>
+Simulated radiofrequency ablation (RFA) in myocardial tissue using a cylindrical electrode model in COMSOL Multiphysics. The simulation exhibited how Joule heating could raise tissue temperatures above 50°C, for effective tumor ablation through controlled thermal damage.<br>
 [Details](/PDF/COMSOL.pdf)
 
 ---
