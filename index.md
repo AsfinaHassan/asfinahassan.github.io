@@ -27,7 +27,7 @@ _Publication from this work:_ [Manuscript in Preparation]
 ![Image](Images/Project_1.png?raw=true")
 ![Image](Images/Project_2.png?raw=true")
 ![Image](Images/Project_3.png?raw=true")
-<a href="https://drive.google.com/file/d/1AklwL86m-Ru6TdAxpVmBlH0XYavYHlPU/view?usp=sharing" style="font-size:8px;">Fetal Heart Rate Voluntary Trial Finding</a>
+<a href="https://drive.google.com/file/d/1AklwL86m-Ru6TdAxpVmBlH0XYavYHlPU/view?usp=sharing" style="font-size:2px;">Fetal Heart Rate Voluntary Trial Finding</a>
 ---
 
 ### Academic Projects
