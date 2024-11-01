@@ -38,7 +38,7 @@ Implemented K-Means clustering and Particle Swarm Optimization algorithms to seg
 
 - **Simulation of Positive Feedback in the Control of Muscle Movement**<br>
 Developed a simple reflex muscle control system and a non-linear muscle control system using Simulink, based on existing literature. The project involved simulating various input forces to analyze the corresponding changes in muscle length.<br>
-[Details](/PDF/COMSOL.pdf)
+[Details](/PDF/Control.pdf)
 
 - **Modelling and Simulating Radiofrequency Cardiac Ablation using COMSOL Multiphysics**<br>
 Simulated radiofrequency ablation (RFA) in myocardial tissue using a cylindrical electrode model in COMSOL Multiphysics. The simulation exhibited how Joule heating could raise tissue temperatures above 50°C, for effective tumor ablation through controlled thermal damage.<br>
