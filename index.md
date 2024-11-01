@@ -15,8 +15,16 @@ _Publication:_ [Manuscript in Prepartion]
 ![Image](Images/Thesis_3.png?raw=true")
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Capstone Project
+
+_Title:_ <span style="color:blue">**BabyBelt: A Wearable Low‑Cost Maternal Belt for Uterine Contraction and Fetal Heart Rate
+Monitoring**</span>
+<br>
+_Publication:_ [Manuscript in Prepartion]
+
+![Image](Images/Project_1.png?raw=true")
+![Image](Images/Project_2.png?raw=true")
+![Image](Images/Project_3.png?raw=true")
 
 ---
 [Project 3 Title](http://example.com/)
