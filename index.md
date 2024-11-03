@@ -37,6 +37,13 @@ _Publication from this work:_ [Manuscript in Preparation]
 ![Image](Images/Project_2.png?raw=true")
 ![Image](Images/Project_3.png?raw=true")
 <a href="https://drive.google.com/file/d/1AklwL86m-Ru6TdAxpVmBlH0XYavYHlPU/view?usp=sharing" style="font-size:12px;">Fetal Heart Rate Voluntary Trial Finding</a>
+
+---
+
+### Collaborative Research Projects
+- **Automated Breast Lesion Classification in Ultrasound Images**<br>
+The research aims to develop a deep learning-based model for breast cancer classification on ultrasound images, distinguishing between benign, malignant, and normal cases. This project involves validation across four public breast ultrasound datasets to improve upon current state-of-the-art models in the literature, for enhanced classification performance.<br>
+
 ---
 
 ### Academic Projects
