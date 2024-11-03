@@ -12,11 +12,11 @@
 ---
 ### Undergraduate Thesis
 
-_Title:_ <span style="color: #228B22;">**ColpoSense - Deep Learning Based Cervical Cancer Detection from Colposcopy Images**</span>
+**Title:** <span style="color: #228B22;">**ColpoSense - Deep Learning Based Cervical Cancer Detection from Colposcopy Images**</span>
 <br><br>
-_Supervisor:_ Dr. Taufiq Hasan, Associate Professor – Department of Biomedical Engineering, BUET (Dhaka, Bangladesh)
+**Supervisor:** Dr. Taufiq Hasan, Associate Professor – Department of Biomedical Engineering, BUET (Dhaka, Bangladesh)
 <br> 
-_Publication from this work:_ [Manuscript in Preparation]
+**Publication from this work:** [Manuscript in Preparation]
 
 ![Image](Images/Thesis_1.png?raw=true")
 ![Image](Images/Thesis_2.png?raw=true")
@@ -26,12 +26,12 @@ _Publication from this work:_ [Manuscript in Preparation]
 ---
 ### Capstone Project
 
-_Title:_ <span style="color:#228B22;">**BabyBelt: A Wearable Low‑Cost Maternal Belt for Uterine Contraction and Fetal Heart Rate
+**Title:** <span style="color:#228B22;">**BabyBelt: A Wearable Low‑Cost Maternal Belt for Uterine Contraction and Fetal Heart Rate
 Monitoring**</span>
 <br><br>
-_Award for this work:_ Crystal Sea Award, Rice360 13th Annual Undergraduate Global Health Technologies Design Competition, Rice University, Houston, Texas, USA
+**Award for this work:** Crystal Sea Award, Rice360 13th Annual Undergraduate Global Health Technologies Design Competition, Rice University, Houston, Texas, USA
 <br>
-_Publication from this work:_ [Manuscript in Preparation]
+**Publication from this work:** [Manuscript in Preparation]
 
 ![Image](Images/Project_1.png?raw=true")
 ![Image](Images/Project_2.png?raw=true")
@@ -41,7 +41,7 @@ _Publication from this work:_ [Manuscript in Preparation]
 ---
 
 ### Collaborative Research Projects
-- **Automated Breast Lesion Classification in Ultrasound Images**<br>
+- **Automated Breast Lesion Classification in Ultrasound Images**_[Ongoing]_<br>
 The research aims to develop a deep learning-based model for breast cancer classification on ultrasound images, distinguishing between benign, malignant, and normal cases. This project involves validation across four public breast ultrasound datasets to improve upon current state-of-the-art models in the literature, for enhanced classification performance.<br>
 
 ---
