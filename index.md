@@ -1,7 +1,7 @@
 <span style="color: #228B22;">**Research Interests**</span>
 - Biomedical Image Processing
 - Deep Learning in Healthcare
-- AI in Healthcare
+- Magnetic Resonance Imaging
 - Biomedical Sensors
 - Biomedical Signal Processing
 - Biomedical Instrumentation and Wearables
