@@ -17,6 +17,7 @@
 <br><br>
 **Supervisor:** Dr. Taufiq Hasan, Associate Professor – Department of Biomedical Engineering, BUET (Dhaka, Bangladesh)
 <br> 
+**Presentation from this work:** Accepted for oral presentation at the '19th SFO Bangladesh International Cancer Congress' [SFO BICC 2024]
 **Publication from this work:** [Manuscript in Preparation]
 
 ![Image](Images/Thesis_1.png?raw=true")
